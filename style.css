@@ -1,0 +1,30 @@
+
+   
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: rgba(75, 48, 116, 0.7);
+    height: 40px;
+}
+
+
+.leftcolumn {
+    width: 20%;
+    float: left;
+    background-color: rgba(30, 124, 99, 0.44);
+}
+
+.rightcolumn {
+    width: 80%;
+    float: left;
+    background-color: rgba(70, 74, 191, 0.55);
+}
+
+.footer {
+    background: #d981a6;
+    float: left;
+    width: 100%;
+}
